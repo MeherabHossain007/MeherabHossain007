@@ -10,7 +10,6 @@ README template inspired by top profiles. Feel free to customize further!
 <p align="center">
   <b>A Passionate Full-Stack Software Developer</b><br>
   <a href="mailto:meherab788@gmail.com">meherab788@gmail.com</a> • 
-  <a href="tel:+8801521530401">+8801521530401</a> • 
   <a href="https://linkedin.com/in/meherab-hossain">LinkedIn</a>
 </p>
 
